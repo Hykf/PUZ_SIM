@@ -21,7 +21,7 @@ pip install pygame
 
 2. Uruchom plik:
 ```bash
-python main.py
+python puz_emu.py
 
 ```
 
@@ -64,7 +64,7 @@ pip install pygame
 
 2. Run the script:
 ```bash
-python main.py
+python puz_emu.py
 
 ```
 
