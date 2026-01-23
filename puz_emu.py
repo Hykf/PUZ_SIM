@@ -350,8 +350,9 @@ if __name__ == "__main__":
                     if n.pos.distance_to((mx, my)) < n.radius + 10:
                         n.dragging = True
                         dragged_node = n
-                        system_temperature = 0.5 
-                        cycles_colored = False 
+                        if system_temperature > 0:
+                            system_temperature = 0.5 
+                            cycles_colored = False 
                         break
             
             if e.type == pygame.MOUSEBUTTONUP:
