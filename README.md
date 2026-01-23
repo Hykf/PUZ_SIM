@@ -95,4 +95,4 @@ Zgoda / Consent
 PL: Wyrażam zgodę na wykorzystanie i publikację tego programu w materiałach dydaktycznych kursu.
 ENG: I hereby grant permission for this software to be used and published in the course materials.
 
-Wróbel Mateusz 24298
+Wróbel Mateusz s24298
